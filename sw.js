@@ -1,4 +1,4 @@
-const CACHE = 'nook-v1';
+const CACHE = 'nook-v2';
 const CORE = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png'];
 
 self.addEventListener('install', e => {
